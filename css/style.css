@@ -154,7 +154,7 @@ img {
   display: inline-block;
   margin-right: 45px;
   padding: 0 ;
-  width: 98px;
+  width: 75px;
   position: relative;
 }
 
@@ -560,8 +560,8 @@ color: var(--hover-secondary);
 }
 .footer .footer-brand {
   display: block;
-  width: 180px;
-  min-width: 180px;
+  width: 80px;
+  
   margin-bottom: 16px;
 }
 .footer .fourthH {
